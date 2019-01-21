@@ -1,9 +1,5 @@
-![dotfiles](https://raw.githubusercontent.com/mscoutermarsh/dotfiles/master/autobot.jpg)
-
 dotfiles
 ===================
-![screenshot](https://github.com/mscoutermarsh/dotfiles/blob/master/screenshot.png)
-(Here's what my setup looks like. Vim/Tmux)
 
 ## New to Vim?
 + [Learning Vim in a Week](https://mikecoutermarsh.com/boston-vim-learning-vim-in-a-week/)
@@ -36,7 +32,4 @@ $ brew install reattach-to-user-namespace
 #### Thanks :heart:
 - [@bswinnerton's dotfiles](https://github.com/bswinnerton/dotfiles)
 - [@thoughtbot's dotfiles](https://github.com/thoughtbot/dotfiles)
-
-
-#### Contributing
-Did you have trouble installing this? Could I make the documentation better? Let me know [@mscccc](http://twitter.com/mscccc). Or please fork & create a pull request with your suggestions.
+- [@mscoutermarsh's dotfiles](https://github.com/mscoutermarsh/dotfiles)
